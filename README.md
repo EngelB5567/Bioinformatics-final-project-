@@ -4,7 +4,7 @@ This is the parent repository for the final project for the fall 2026 semester o
 
 ## Tasks
 
-You have been provided with 192 FASTQs filles in `/data/classes/2026/fall/biol343_001/_course_files/30-1264854506/00_fastq`. These reads originated from 16 different samples: wild-type (AB) or knockout (fmr1) zebrafish embryos at 1, 2, 3, and 5 days post-fertilization, treated with either cortisol or vehicle. The goal of this experiment is to analyze whether cortisol treatment has different effects on development in zebrafish carrying a knockout mutation in a gene linked to Fragile X syndrome in humans.
+You have been provided with 192 FASTQs files in `/data/classes/2026/fall/biol343_001/_course_files/30-1264854506/00_fastq`. These reads originated from 16 different samples: wild-type (AB) or knockout (fmr1) zebrafish embryos at 1, 2, 3, and 5 days post-fertilization, treated with either cortisol or vehicle. The goal of this experiment is to analyze whether cortisol treatment has different effects on development in zebrafish carrying a knockout mutation in a gene linked to Fragile X syndrome in humans.
 
 >[!TIP]
 > You may want to re-read ["Cortisol-treated zebrafish embryos develop into pro-inflammatory adults with aberrant immune gene regulation."]([https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1012268](https://pubmed.ncbi.nlm.nih.gov/27444789/)). Our project is a follow up to that study.
