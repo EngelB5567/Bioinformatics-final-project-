@@ -1,1 +1,4 @@
-192 Raw FASTQ
+192_Raw_FASTQ
+Pre-trimmed_QC_and_analysis/FASTQC
+Pre-trimmed_QC_and_analysis/multiqc_data
+
